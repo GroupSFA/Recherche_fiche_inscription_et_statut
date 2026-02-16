@@ -1,0 +1,9 @@
+streamlit
+pandas
+openpyxl
+selenium
+streamlit
+pandas
+selenium
+openpyxl
+xlrd>=2.0.1
